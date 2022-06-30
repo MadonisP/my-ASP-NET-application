@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\source\\repos\\FirstMVCApp\\FirstMVCApp\\FirstMVCApp.csproj",
-      "projectName": "FirstMVCApp",
-      "projectPath": "C:\\Users\\PC\\source\\repos\\FirstMVCApp\\FirstMVCApp\\FirstMVCApp.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\source\\repos\\RazorPizzeria\\RazorPizzeria\\RazorPizzeria.csproj",
+      "projectName": "RazorPizzeria",
+      "projectPath": "C:\\Users\\PC\\source\\repos\\RazorPizzeria\\RazorPizzeria\\RazorPizzeria.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\source\\repos\\FirstMVCApp\\FirstMVCApp\\obj\\",
+      "outputPath": "C:\\Users\\PC\\source\\repos\\RazorPizzeria\\RazorPizzeria\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
